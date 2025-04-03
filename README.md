@@ -50,7 +50,7 @@ If the `settings.xml` file is not present, follow these steps:
            <server>
                <id>jad-maven-public-repository</id>
                <username>Jean-Aymeric</username>
-               <password>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</password>
+               <password>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</password>
            </server>
        </servers>
    </settings>
@@ -71,5 +71,5 @@ without overwriting existing settings.
    <server>
        <id>jad-maven-public-repository</id>
        <username>Jean-Aymeric</username>
-       <password>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</password>
+       <password>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</password>
    </server>
