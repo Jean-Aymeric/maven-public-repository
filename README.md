@@ -57,7 +57,7 @@ Public repository for maven packages shared with my students
 
     <servers>
         <server>
-            <id>maven-public-repository</id>
+            <id>jad-maven-public-repository</id>
             <username>[Your GitHub Username]</username>
             <password>[Your Token]</password>
         </server>
