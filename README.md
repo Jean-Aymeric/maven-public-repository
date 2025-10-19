@@ -53,14 +53,17 @@ Public repository for maven packages shared with my students
 - Add the following entry inside the `<servers>` section:
 
 ```xml
+<settings>
 
-<servers>
-    <server>
-        <id>maven-public-repository</id>
-        <username>[Your GitHub Username]</username>
-        <password>[Your Token]</password>
-    </server>
-</servers>
+    <servers>
+        <server>
+            <id>maven-public-repository</id>
+            <username>[Your GitHub Username]</username>
+            <password>[Your Token]</password>
+        </server>
+    </servers>
+
+</settings>
 ```
 
 - Replace `[Your GitHub Username]` with your GitHub username.
